@@ -1,4 +1,3 @@
-DMCA
-====
+Inspired by [GitHub's DMCA Repo](https://github.com/github/dmca), this repo contains various DMCA takedown notices we've received at Digital Wolf Studio.
 
-DMCA takedowns Digital Wolf Studio have received.
+For more details on our own policy, please see [this page](http://digitalwolfstudio.tk/dmca-policy).
